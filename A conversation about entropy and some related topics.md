@@ -1,11 +1,3 @@
----
-created: 2025-11-10
-modified: 2025-11-10 18:58
-tags:
-  - Thought
-  - GenAI
-  - ClaudeAI
----
 ## Let's talk about Entropy.
 
 Entropy is one of those concepts that shows up everywhere once you start looking for it - from thermodynamics to information theory to the ultimate fate of the universe.
